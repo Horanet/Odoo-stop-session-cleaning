@@ -23,10 +23,10 @@ INFO ? odoo.addons.stop_session_gc.models.inherited_ir_http: Odoo session garbag
 
 ##### Odoo v11
 ```ruby
-pip3 install "git+https://github.com/Horanet/Odoo-stop-session-cleaning.git@11.0#egg=odoo11-addon-stop_session_gc&subdirectory=setup/stop_session_gc"
+pip install "git+https://github.com/Horanet/Odoo-stop-session-cleaning.git@11.0#egg=odoo11-addon-stop_session_gc&subdirectory=setup/stop_session_gc"
 ```
 
 ##### Odoo v10
 ```ruby
-pip3 install "git+https://github.com/Horanet/Odoo-stop-session-cleaning.git@10.0#egg=odoo10-addon-stop_session_gc&subdirectory=setup/stop_session_gc"
+pip install "git+https://github.com/Horanet/Odoo-stop-session-cleaning.git@10.0#egg=odoo10-addon-stop_session_gc&subdirectory=setup/stop_session_gc"
 ```
